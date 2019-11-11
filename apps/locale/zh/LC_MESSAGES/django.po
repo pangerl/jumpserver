@@ -2811,8 +2811,8 @@ msgid "Asset permission asset list"
 msgstr "资产授权资产列表"
 
 #: templates/_copyright.html:2 templates/_footer.html:8
-msgid " Beijing Duizhan Tech, Inc. "
-msgstr " 北京堆栈科技有限公司 "
+msgid "  "
+msgstr "  "
 
 #: templates/_header_bar.html:31
 msgid "Help"

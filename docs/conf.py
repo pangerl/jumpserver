@@ -21,7 +21,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Jumpserver'
-copyright = '北京堆栈科技有限公司 © 2014-2018'
+#copyright = '北京堆栈科技有限公司 © 2014-2018'
+copyright = ''
 author = 'Jumpserver team'
 
 # The short X.Y version
@@ -165,4 +166,4 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
-html_logo = '_static/img/logo-text.png'
+html_logo = '_static/img/logo-yun.png'
